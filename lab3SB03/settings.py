@@ -25,7 +25,7 @@ SECRET_KEY = 'jnl-v1b=u!^uloag5!4+q6=wdbxf*0mqt!5n@+jm9qob_fayf5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost-tharathorn-wangthammang-1.paiza-user-free.cloud']
 
 
 # Application definition
