@@ -6,8 +6,13 @@ h1 a, h2 a {
 body {
     padding-left: 15px;
 }
-p, h5{
+ h5{
     font-family: 'Cabin', sans-serif;
+    color: #ffffff;
+}
+p{
+    font-family: 'Cabin', sans-serif;
+    color: #111111;
 }
 .page-header {
     background-color: #C25100;
@@ -29,9 +34,11 @@ p, h5{
 .main{
     background-color: #fffafa;
 }
-h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+.gitlink{
+    color: #ffffff;
+    font-family: 'Cabin', sans-serif;
 }
+
 
 .date {
     color: #828282;
